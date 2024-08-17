@@ -1,4 +1,4 @@
 # Netflix-PowerBI-Interactive-Dashboard
 
-<img src="Netflix.png" alt="Netflix" width="500"/>
+<img src="Netflix.png" alt="Netflix" width="400"/>
 
