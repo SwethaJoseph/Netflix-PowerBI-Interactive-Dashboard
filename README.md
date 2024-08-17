@@ -3,7 +3,7 @@
 <img src="Netflix.png" alt="Netflix" width="400"/>
 
 ## Overview
-This project involves the analysis of Netflix data using a Power BI dashboard to provide insights into the streaming platform's content library and user engagement. The analysis aims to uncover trends in content type, genre distribution, release years, and user preferences, helping to inform strategic decisions for content development and user retention.
+Netflix is a popular streaming platform offering a vast library of movies, TV shows, and documentaries to a global audience. This project involves the analysis of Netflix data using a Power BI dashboard to provide insights into the streaming platform's content library and user engagement. The analysis aims to uncover trends in content type, genre distribution, release years, and user preferences, helping to inform strategic decisions for content development and user retention.
 
 ## Dataset Description
 The dataset used in this project contains detailed information about Netflix's content library. It includes the following key attributes:
