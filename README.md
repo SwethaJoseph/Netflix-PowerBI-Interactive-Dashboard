@@ -20,6 +20,8 @@ The dataset used in this project contains detailed information about Netflix's c
 * Genre: The genre(s) of the content.
 * Description: A brief description of the content.
 
+## Netflix Dashboard
+
 <img src="Netflix Dashboard.png" alt="Netflix Dashboard" width="800"/>
 
 ## Project Components
