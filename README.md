@@ -19,3 +19,5 @@ The dataset used in this project contains detailed information about Netflix's c
 * Duration: The duration of the content (in minutes or number of seasons for TV shows).
 * Genre: The genre(s) of the content.
 * Description: A brief description of the content.
+
+  <img src="Netflix Dasboard.png" alt="Netflix" width="500"/>
