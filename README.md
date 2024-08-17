@@ -50,6 +50,6 @@ Interactive Visualizations: The Power BI dashboard provides interactive visualiz
 ## Conclusion
 The Netflix Dashboard offers a comprehensive analysis of the streaming platform's content library, enabling stakeholders to understand trends in content production, viewer preferences, and regional content distribution. This tool can be used to guide content strategy, marketing, and expansion efforts.
 
-For any questions or suggestions, please reach out to [Swetha Kizhavana Joseph](: https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/)
+For any questions or suggestions, please reach out to [LinkedIn|Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/)
 
 
